@@ -10,3 +10,5 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**FanGraphs:** Gerrit Cole and the Pine Tar Controversy](https://community.fangraphs.com/gerrit-cole-and-the-pine-tar-controversy/)
 - [**Article:** A Statistical Analysis of Hitting Streaks in Baseball](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10476395)
 - [**Article:** Machine Learning Applications in Baseball: A Systematic Literature Review](https://www.tandfonline.com/doi/full/10.1080/08839514.2018.1442991?src=recsys&)
+- [**Data:** Baseball Reference](https://www.baseball-reference.com/)
+- [**Data:** Baseball Savant](https://baseballsavant.mlb.com/)
