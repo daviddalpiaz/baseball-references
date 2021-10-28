@@ -1,2 +1,3 @@
-# baseball-references
-a repo to keep track of references that may be useful for baseball analytics
+# Baseball References
+
+- [CRAN Task View: Sports Analytics](https://github.com/beanumber/ctv-sportsanalytics)
