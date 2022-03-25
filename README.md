@@ -29,3 +29,4 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**Article:** Why Can’t The Rockies Hit Outside The Rockies?](https://fivethirtyeight.com/features/why-cant-the-rockies-hit-outside-the-rockies/)
 - [**Collection:** The Physics of Baseball](http://baseball.physics.illinois.edu/index.html)
 - [**Code:** `sportyR` via Exploring Baseball Data with R](https://baseballwithr.wordpress.com/2021/04/26/spray-charts-using-the-sportyr-package/)
+- [**Paper:** Hierarchical Bayesian Modeling of Hitting Performance in Baseball](http://stat.wharton.upenn.edu/~stjensen/papers/shanejensen.traj09.pdf)
