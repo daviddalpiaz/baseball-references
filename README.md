@@ -30,3 +30,7 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**Collection:** The Physics of Baseball](http://baseball.physics.illinois.edu/index.html)
 - [**Code:** `sportyR` via Exploring Baseball Data with R](https://baseballwithr.wordpress.com/2021/04/26/spray-charts-using-the-sportyr-package/)
 - [**Paper:** Hierarchical Bayesian Modeling of Hitting Performance in Baseball](http://stat.wharton.upenn.edu/~stjensen/papers/shanejensen.traj09.pdf)
+- [**Code:** `boxball` Prebuilt Docker images with Retrosheet's complete baseball history data](https://github.com/droher/boxball)
+- [**Code:** Chadwick: Software Tools for Game-Level Baseball Data](https://chadwick.readthedocs.io/en/latest/index.html)
+- [**Code:** `baseballr`](https://billpetti.github.io/baseballr/)
+- [**Code:** `teamcolors`](https://github.com/beanumber/teamcolors)
