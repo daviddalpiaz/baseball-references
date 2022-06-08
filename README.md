@@ -34,3 +34,4 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**Code:** Chadwick: Software Tools for Game-Level Baseball Data](https://chadwick.readthedocs.io/en/latest/index.html)
 - [**Code:** `baseballr`](https://billpetti.github.io/baseballr/)
 - [**Code:** `teamcolors`](https://github.com/beanumber/teamcolors)
+- [**Article:** How Good Are Those Probabilities on the Apple TV+ Broadcasts?](https://blogs.fangraphs.com/how-good-are-those-probabilities-on-the-apple-tv-broadcasts/)
