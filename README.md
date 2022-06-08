@@ -35,3 +35,4 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**Code:** `baseballr`](https://billpetti.github.io/baseballr/)
 - [**Code:** `teamcolors`](https://github.com/beanumber/teamcolors)
 - [**Article:** How Good Are Those Probabilities on the Apple TV+ Broadcasts?](https://blogs.fangraphs.com/how-good-are-those-probabilities-on-the-apple-tv-broadcasts/)
+- [**Article:** So You Just Crushed A Baseball. Sorry, Your Odds Of A Home Run Are Worse This Year](https://fivethirtyeight.com/features/so-you-just-crushed-a-baseball-sorry-your-odds-of-a-home-run-are-worse-this-year/)
