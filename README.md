@@ -39,3 +39,4 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**Article:** So You Just Crushed A Baseball. Sorry, Your Odds Of A Home Run Are Worse This Year](https://fivethirtyeight.com/features/so-you-just-crushed-a-baseball-sorry-your-odds-of-a-home-run-are-worse-this-year/)
 - [**Data:** The @UmpScorecards Archive](https://umpscorecards.com/)
 - [**Article:** Tony La Russa Is at It Again](https://blogs.fangraphs.com/tony-la-russa-is-at-it-again/)
+- [**Paper:** Bang the Can Slowly: An Investigation into the 2017 Houston Astros](https://www.tandfonline.com/doi/full/10.1080/00031305.2021.1902391)
