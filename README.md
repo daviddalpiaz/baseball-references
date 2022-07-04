@@ -12,6 +12,7 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**Paper:** Machine Learning Applications in Baseball: A Systematic Literature Review](https://www.tandfonline.com/doi/full/10.1080/08839514.2018.1442991?src=recsys&)
 - [**Data:** Baseball Reference](https://www.baseball-reference.com/)
 - [**Data:** Baseball Savant](https://baseballsavant.mlb.com/)
+- [**Data:** Statcast Glossary](https://www.mlb.com/glossary/statcast)
 - [**Paper:** Hitting Streaks Don't Obey Your Rules](https://sabr.org/sites/default/files/McCotterBRJ2008.pdf)
 - [**Paper:** Streaky Hitting in Baseball](https://www.stat.berkeley.edu/~aldous/157/Papers/albert_streaky.pdf)
 - [**Code:** `statcastr`](https://github.com/beanumber/statcastr)
@@ -36,3 +37,5 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**Code:** `teamcolors`](https://github.com/beanumber/teamcolors)
 - [**Article:** How Good Are Those Probabilities on the Apple TV+ Broadcasts?](https://blogs.fangraphs.com/how-good-are-those-probabilities-on-the-apple-tv-broadcasts/)
 - [**Article:** So You Just Crushed A Baseball. Sorry, Your Odds Of A Home Run Are Worse This Year](https://fivethirtyeight.com/features/so-you-just-crushed-a-baseball-sorry-your-odds-of-a-home-run-are-worse-this-year/)
+- [**Data:** The @UmpScorecards Archive](https://umpscorecards.com/)
+- [**Article:** Tony La Russa Is at It Again](https://blogs.fangraphs.com/tony-la-russa-is-at-it-again/)
