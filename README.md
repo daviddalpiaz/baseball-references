@@ -40,3 +40,5 @@ Currently an un-sorted list of things I had open in tabs that I wanted to close.
 - [**Data:** The @UmpScorecards Archive](https://umpscorecards.com/)
 - [**Article:** Tony La Russa Is at It Again](https://blogs.fangraphs.com/tony-la-russa-is-at-it-again/)
 - [**Paper:** Bang the Can Slowly: An Investigation into the 2017 Houston Astros](https://www.tandfonline.com/doi/full/10.1080/00031305.2021.1902391)
+- [**Code:** `mlbplotR`](https://camdenk.github.io/mlbplotR/)
+- [**Paper:** Big Ideas in Sports Analytics and Statistical Tools for their Investigation](https://arxiv.org/abs/2301.04001)
